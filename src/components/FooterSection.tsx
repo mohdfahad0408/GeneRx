@@ -93,7 +93,7 @@ export const FooterSection = () => {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/mohdfahad0408/geneRx"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-card rounded-lg p-2 border border-border hover:border-primary/40 hover:shadow-warm social-icon group"
